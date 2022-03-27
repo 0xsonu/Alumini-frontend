@@ -1,0 +1,12 @@
+*.min.*
+*lock.*
+.history
+.next
+.vscode
+build
+dist
+node_modules
+packages/mobile/android
+packages/mobile/ios
+packages/ckeditor
+packages/shared/amplify
