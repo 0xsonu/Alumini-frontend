@@ -20,7 +20,8 @@
     ],
     "nohoist": []
   },
-  "author": "Sonu Kumar",
+  "author": "sonukumar81800 <sonu.patna0808@gmail.com>",
+  "repository": "https://github.com/SonuKumar81800/Alumini-frontend.git",
   "license": "MIT",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "4.22.0",
