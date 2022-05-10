@@ -1,0 +1,23 @@
+{
+  "name": "@frontend/shared",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SonuKumar81800/Alumini-frontend.git",
+  "author": "sonukumar81800 <sonu.patna0808@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.6.2",
+    "formik": "^2.2.9",
+    "graphql": "^16.5.0",
+    "react": "^18.1.0",
+    "react-query": "^3.39.0",
+    "uuid": "^8.3.2",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/uuid": "^8.3.4",
+    "@types/yup": "^0.29.13",
+    "typescript": "^4.6.4"
+  }
+}
