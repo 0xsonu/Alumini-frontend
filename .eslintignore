@@ -1,0 +1,9 @@
+*.min.*
+*lock.*
+.history
+.next
+.vscode
+build
+dist
+node_modules
+packages/web/public

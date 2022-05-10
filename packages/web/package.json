@@ -11,12 +11,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.6.2",
+    "@babel/core": "^7.17.10",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
+    "@frontend/shared": "1.0.0",
     "@mui/material": "^5.6.4",
+    "@reduxjs/toolkit": "^1.8.1",
     "next": "12.1.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-redux": "^8.0.1"
   },
   "devDependencies": {
     "@types/node": "17.0.23",
